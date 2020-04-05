@@ -1,5 +1,4 @@
-# pizza-bot-vue
-
+### Pizza Bot (Frontend VUE) - DOCUMENTATION
 ## Project setup
 ```
 npm install
@@ -20,5 +19,5 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Notes:
+1. If you face any issues with api call to backend, Feel free to check in `src/utils/backend-api.js`, which contains centralized API configuration.
